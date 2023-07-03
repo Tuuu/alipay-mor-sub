@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [
+    {
+      "root": "packageA",
+      "pages": ["user/index"]
+    },
+    {
+      "root": "packageB",
+      "pages": ["user/index"]
+    },
+    {
+      "root": "packageC",
+      "pages": ["user/index"]
+    }
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  },
+  "behavior": {
+    "requestReferrerStrategy": "page"
+  }
+}

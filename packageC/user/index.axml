@@ -1,0 +1,4 @@
+<view>
+  packageC user no default generic
+</view>
+<username generic:user-avatar='x'></username>

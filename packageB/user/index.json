@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "username": "../alipay/components/username/index",
+    "x": "../x/index/index"
+  },
+  "styleIsolation": "apply-shared"
+}

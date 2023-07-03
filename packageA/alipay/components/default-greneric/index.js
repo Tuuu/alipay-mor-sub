@@ -1,0 +1,1 @@
+"use strict";require("../../mor.i.js"),(my.mor_modules_s_mor_sub=my.mor_modules_s_mor_sub||[]).push([[108],{"/XbY":function(_,o,e,s){var t=e("oZC5");(0,t.w2)({data:{},lifetimes:{attached(){console.log("default generics")}}})}},function(_){var o=function(s){return _(_.s=s)};_.O(0,[986],function(){return o("/XbY")});var e=_.O()}]);

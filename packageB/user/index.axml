@@ -1,0 +1,4 @@
+<view>
+  packageB user
+</view>
+<username generic:user-avatar='x'></username>

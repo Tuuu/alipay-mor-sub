@@ -1,0 +1,1 @@
+"use strict";var morGlobal=require("./mor.g.js");(my.mor_modules_s_mor_sub=my.mor_modules_s_mor_sub||[]).push([[654],{h5o6:function(_,o,s,r){var u=s("MVhz");(0,u.tg)({},[],{globalApp:morGlobal.initApp})}},function(_){var o=function(r){return _(_.s=r)};_.O(0,[986],function(){return o("h5o6")});var s=_.O()}]);

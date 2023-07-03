@@ -1,0 +1,16 @@
+
+<view>
+  多个独立分包引入同一个 morjs 组件测试
+</view>
+
+<view>
+  <navigator url="/packageA/user/index">packageA</navigator>
+</view>
+
+<view>
+  <navigator url="/packageB/user/index">packageB</navigator>
+</view>
+
+<view>
+  <navigator url="/packageC/user/index">packageC</navigator>
+</view>

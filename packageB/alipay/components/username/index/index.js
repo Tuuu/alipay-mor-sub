@@ -1,0 +1,1 @@
+"use strict";require("../../../mor.i.js"),(my.mor_modules_s_mor_sub=my.mor_modules_s_mor_sub||[]).push([[918],{bOhM:function(o,_,e,t){var s=e("oZC5");(0,s.w2)({data:{motto:"Hello World"},lifetimes:{attached(){console.log("username component attached")}}})}},function(o){var _=function(t){return o(o.s=t)};o.O(0,[986],function(){return _("bOhM")});var e=o.O()}]);

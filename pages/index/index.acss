@@ -1,0 +1,4 @@
+view {
+  line-height: 26px;
+  padding: 2px 10px;
+}
